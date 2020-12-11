@@ -1,0 +1,12 @@
+
+
+
+<resources>
+    <string name="app_name">NoteToOgulcanSahnaoglu</string>
+    
+    <string name="notes">Notes</string>
+    <string name="add">Add To List</string>
+    <string name="del">Delete Items</string>
+    <string name="text">EditText</string>
+
+</resources>
